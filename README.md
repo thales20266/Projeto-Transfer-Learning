@@ -23,9 +23,9 @@ Visualização de gráficos de loss e acurácia durante o treinamento
 
 📊 Resultados
 
-Rede neural do zero: ~49% de acurácia no conjunto de teste
+Rede neural do zero: ~63% de acurácia no conjunto de teste
 
-Transfer Learning com VGG16: ~78% de acurácia no conjunto de teste
+Transfer Learning com VGG16: ~88% de acurácia no conjunto de teste
 
 Os gráficos gerados pelo código permitem comparar visualmente a evolução da loss e da acurácia durante o treinamento das duas redes.
 
